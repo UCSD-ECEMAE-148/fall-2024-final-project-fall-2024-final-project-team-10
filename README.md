@@ -1,11 +1,11 @@
 <h1 align="center">Project Name</h1>
 
 <p align="center">
-  <img src="" alt="JSOE Image" width="600">
+  <img src="./images/UCSDLogo_JSOE_BlueGold_0_0.png" alt="JSOE Image" width="360">
 </p>
 
-<h3 align="center">ECE-MAE 148 Final Project</h3>
-<h4 align="center">Team 10 Fall 2024</h4>
+<h4 align="center">ECE-MAE 148 Final Project</h4>
+<h5 align="center">Team 10 Fall 2024</h5>
 
 <p align="center">
   <img src="" alt="Robot Image" width="600">
@@ -47,7 +47,7 @@ Chen-Min Kuan (MAE)\
 Yung-Chieh Yang (ECE)
 
 ## Final Project
-Our project goal was to  ...
+Our project goal was to use OpenCV to identify and read license plates of cars in a parking lot and mark the car with a sticker using a robot arm if the license plate is not valid.
 
 ### Original Goals
 
@@ -63,15 +63,32 @@ Our project goal was to  ...
 
 ### CAD Parts
 
+#### Final Assembly
+
+#### Custom Designed Parts
+
+#### Open Source Parts
+
 ### Electronic Hardware
 
 ### Software
 
-## Acknowledgments
+#### Embedded Systems
 
+#### ROS2
+
+#### DonkeyCar AI
+
+## Acknowledgments
+*Thank you to my teammates, Professor Jack Silberman, and our incredible TAs and tutor for an amazing Fall 2024 class!*
 ## Authors
 
 ## Contact
+- Sean Li |  sjl009@ucsd.edu
+- Ya-Lun Wu | yaw036@ucsd.edu
+- Shanlin Qian | s4qian@ucsd.edu
+- Chen-Min Kuan | ckuan@ucsd.edu
+- Yung-Chieh Yang | yuy043@ucsd.edu
 
 
 
