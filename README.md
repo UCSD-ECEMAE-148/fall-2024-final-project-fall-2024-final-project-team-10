@@ -70,6 +70,17 @@ Nice to have:
 #### Final Assembly
 
 #### Custom Designed Parts
+| Part | CAD Model | Designer |
+|------|--------------|------------|
+| Base of Sticker Machine | <img src="[https://github.com/kiers-neely/ucsd-mae-148-team-4/assets/161119406/03902430-3625-4b19-ae1d-3ddaa344aa6a](https://github.com/UCSD-ECEMAE-148/fall-2024-final-project-fall-2024-final-project-team-10/blob/main/images/Base.png)" width="300" height="300" /> | Chen-Min
+| Camera Mount | <img src="[https://github.com/kiers-neely/ucsd-mae-148-team-4/assets/161119406/ce443b16-9706-402e-be97-a78447cd391f](https://github.com/UCSD-ECEMAE-148/fall-2024-final-project-fall-2024-final-project-team-10/blob/main/images/Camera%20Mount.png)" width="300" height="400" /> | Chen-Min
+| Conveyer Gear | <img src="[https://github.com/kiers-neely/ucsd-mae-148-team-4/assets/161119406/2b4e5f76-f76d-4184-8922-512b867e38bc](https://github.com/UCSD-ECEMAE-148/fall-2024-final-project-fall-2024-final-project-team-10/blob/main/images/Converyer%20Gear.png)" width="300" height="300" /> | Sean
+| Lid of Sticker Machine | <img src="[https://github.com/kiers-neely/ucsd-mae-148-team-4/assets/161119406/d4d178f0-1912-44ac-8c8f-8a4d6e4bb17f](https://github.com/UCSD-ECEMAE-148/fall-2024-final-project-fall-2024-final-project-team-10/blob/main/images/Lid.png)" width="300" height="300" /> | Chen-Min
+| Pusher Rotator Link | <img src="https://github.com/UCSD-ECEMAE-148/fall-2024-final-project-fall-2024-final-project-team-10/blob/main/images/Pusher%20Rotator%20Link.png" width="300" height="300"/> | Chen-Min
+| Pusher | <img src="https://github.com/UCSD-ECEMAE-148/fall-2024-final-project-fall-2024-final-project-team-10/blob/main/images/Pusher.png" width="300" height="300" /> | Chen-Min
+| Rotator Gear | <img src="https://github.com/UCSD-ECEMAE-148/fall-2024-final-project-fall-2024-final-project-team-10/blob/main/images/Rotator%20Gear.png" width="300" height="300" /> | Chen-Min
+| Rotator | <img src="https://github.com/UCSD-ECEMAE-148/fall-2024-final-project-fall-2024-final-project-team-10/blob/main/images/Rotator.png" width="300" height="300" /> | Chen-Min 
+| Sticker Gear | <img src="https://github.com/UCSD-ECEMAE-148/fall-2024-final-project-fall-2024-final-project-team-10/blob/main/images/Sticker%20Gear.png" width="300" height="300" /> | Chen-Min
 
 #### Open Source Parts
 
