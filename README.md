@@ -138,14 +138,15 @@ Below is a circuit diagram of the electronic hardware setup for the car.
 
 ### Software Progress
 
-#### Open ALPR
+#### Open ALPR 
 - First we integrated OpenALPR onto our Jetson, which is an automatic number plate recognition library. 
   - Connected it to our camera, for live plate detection. 
 - Then, we wrote code to match against database. 
 - We initially had a code that ran continuously while the robot was driving, causing a plate number to be ticketed infinitely because the camera was not lined up perfectly with the plate. 
 - We altered this code so that we now have a database with all the license plates that we are going to read, whether correct, or incorrect. Then, we checked to see if the plate we read is in the database, if it is in the database, then we will continue to check if the plate is valid or not valid. 
   - Note: this introduces the problem of having to register every possibility of license plate, which would not be applicable in real life programs; however, it helped reduce the amount of times the code ran while approaching a license plate. 
-- Finally, we integrated a Arduino Nano in parallel with our Jetson to run code for our servo driving the gears for the sticker machine. 
+- Finally, we integrated a Arduino Nano in parallel with our Jetson to run code for our servo driving the gears for the sticker machine.
+- [Reference](https://github.com/openalpr/openalpr)
 
 #### Arduino 
 
