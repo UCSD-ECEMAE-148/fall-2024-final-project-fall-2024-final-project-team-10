@@ -20,19 +20,18 @@
 - [Final Project](#final-project)
   - [Original Goals](#original-goals)
     - [Goals We Met](#goals-we-met)
-    - [Our Hopes and Dreams](#our-hopes-and-dreams)
-      - [Stretch Goal 1](#stretch-goal-1)
-      - [Stretch Goal 2](#stretch-goal-2)
-  - [Final Project Documentation](#final-project-documentation)
+    - [Demo](#Demo)
+    - [What we could’ve improved on](#what-we-couldve-improved-on)
 - [Robot Design](#robot-design)
 - [CAD Parts](#cad-parts)
   - [Final Assembly](#final-assembly)
   - [Custom Designed Parts](#custom-designed-parts)
   - [Open Source Parts](#open-source-parts)
 - [Electronic Hardware](#electronic-hardware)
-- [Software](#software)
-  - [Embedded Systems](#embedded-systems)
-  - [ROS2](#ros2)
+- [Hardware Projress](#hardware-progress)
+- [Software Progress](#software-progress)
+  - [Open ALPR](#open-alpr)
+  - [Arduino](#arduino)
   - [DonkeyCar AI](#donkeycar-ai)
 - [Acknowledgments](#acknowledgments)
 - [Authors](#authors)
@@ -59,9 +58,9 @@ Nice to have:
 - 
 
 ### Demo
-[Demo 1](/media/demo1.MOV)\
-[Demo 2](/media/demo2.mp4)\
-[Demo 3](/media/demo3.MOV)
+[Demo 1](https://drive.google.com/file/d/1xZt-TrRy52wF89hov6-FDPGDqlJC-etA/view?usp=sharing)\
+[Demo 2](https://drive.google.com/file/d/1sbYFmh5oaZBK7KqHOHRqMnXmJHcmSnBu/view?usp=sharing)\
+[Demo 3](https://drive.google.com/file/d/1aNwRwc_pDTHvIMnKcaItPX3tgnfH4i7-/view?usp=sharing)
 ### What we could’ve improved on
 - Taken our time with brainstorming ideas on how to dispense stickers, so we could work with different implementations before committing to an idea
 - Moving gear in the front of the sticker dispenser to help guide the conveyor belt
@@ -150,7 +149,7 @@ Below is a circuit diagram of the electronic hardware setup for the car.
 
 #### Arduino 
 
-#### DonkeyCar AI/ GPS ??? 
+#### DonkeyCar AI 
 
 ## Acknowledgments
 *Thank you to my teammates, Professor Jack Silberman, and our incredible TAs and tutor for an amazing Fall 2024 class!*
