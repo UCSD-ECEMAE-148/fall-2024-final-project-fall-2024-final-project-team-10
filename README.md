@@ -1,4 +1,4 @@
-<h1 align="center">Project Name</h1>
+<h1 align="center">Lisence Plate Detection</h1>
 
 <p align="center">
   <img src="./images/UCSDLogo_JSOE_BlueGold_0_0.png" alt="JSOE Image" width="360">
@@ -8,7 +8,7 @@
 <h5 align="center">Team 10 Fall 2024</h5>
 
 <p align="center">
-  <img src="" alt="Robot Image" width="600">
+  <img src="./images/robot_image.png" alt="Robot Image" width="600">
 </p>
 
 
@@ -47,13 +47,17 @@ Chen-Min Kuan (MAE)\
 Yung-Chieh Yang (ECE)
 
 ## Final Project
-Our project goal was to use OpenCV to identify and read license plates of cars in a parking lot and mark the car with a sticker using a robot arm if the license plate is not valid.
 
 ### Original Goals
+Our project goal was to use AI to identify and read license plates of cars in a parking lot and have a mechanism to mark cars that need to receive a ticket with a sticker if the license plate is not valid.
+
+Nice to have: 
+- Have a predetermined path, recorded with GPS, that the car can follow autonomously
+- Car can communicate with an external device to show users which plates have been marked
 
 ### Goals We Met
 
-### Our Hopes and Dreams
+### What we could’ve improved on
 
 #### Stretch Goal 1
 
