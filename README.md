@@ -71,10 +71,10 @@ Nice to have:
 ### CAD Parts
 
 #### Final Assembly
-Full Assembly
+
 <img src="https://github.com/UCSD-ECEMAE-148/fall-2024-final-project-fall-2024-final-project-team-10/blob/main/images/Full%20Assembly.png" width="700" height="500" />
-Assembly without Lid
 <img src="https://github.com/UCSD-ECEMAE-148/fall-2024-final-project-fall-2024-final-project-team-10/blob/main/images/Assembly%20Without%20Lid%20and%20Camera%20Mount.png" width="700" width="500">
+
 #### Custom Designed Parts
 | Part | CAD Model | Designer |
 |------|--------------|------------|
