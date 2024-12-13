@@ -59,7 +59,7 @@ Nice to have:
 - 
 
 ### Demo
-[Demo 1](/media/)
+[Demo 1](/media/demo1.MOV)\
 [Demo 2](/media/demo2.mp4)\
 [Demo 3](/media/demo3.MOV)
 ### What we could’ve improved on
