@@ -57,6 +57,11 @@ Nice to have:
 
 ### Goals We Met
 - 
+
+### Demo
+[Demo 1](/media/)
+[Demo 2](/media/demo2.mp4)\
+[Demo 3](/media/demo3.MOV)
 ### What we could’ve improved on
 - Taken our time with brainstorming ideas on how to dispense stickers, so we could work with different implementations before committing to an idea
 - Moving gear in the front of the sticker dispenser to help guide the conveyor belt
@@ -98,24 +103,32 @@ Below is a circuit diagram of the electronic hardware setup for the car.
 
 ### Hardware Progress
 - Starting with the idea of a conveyor belt, we played around with implementing robotic arm ideas, but ultimately settled on a mechanism that combines both the ticketing and conveyor belt into one main gear. 
+
 <p align="center">
   <img src="./images/hardware1.png" alt="hardware1" width="600">
 </p>
+
 - We then began CADing our design and creating the proper gear dimensions for a belt that we ordered online.
 - In order to drive the gears, we then installed a mounting bracket for a servo. 
+
 <p align="center">
   <img src="./images/hardware2.png" alt="hardware2" width="600">
 </p>
+
 - Once assembling all components on the robot, more problems began to arise because of both the fragility of certain 3-D printed components, and because of oversights in our initial designs.
 - We noticed that the belt began to get caught around the sharp edges of our sticker mechanism.
+
 <p align="center">
   <img src="./images/hardware3.png" alt="hardware3" width="600">
 </p> 
+
 - We accounted for this in a new CAD design, but did not have time to implement it into a physical model.
 - Ultimately, we settled on a design where the robot would come pre-attached with a sticker on the pushing mechanism, removing the need for a conveyor belt.
+
 <p align="center">
   <img src="./images/hardware4.png" alt="hardware4" width="600">
 </p> 
+
 - This resort still showed that our project is operable and accomplishes the original goal, but needs minor tweaks on the design to allow the conveyor belt to spin around the mechanism. 
 
 
@@ -130,7 +143,9 @@ Below is a circuit diagram of the electronic hardware setup for the car.
   - Note: this introduces the problem of having to register every possibility of license plate, which would not be applicable in real life programs; however, it helped reduce the amount of times the code ran while approaching a license plate. 
 - Finally, we integrated a Arduino Nano in parallel with our Jetson to run code for our servo driving the gears for the sticker machine. 
 
-#### DonkeyCar AI
+#### Arduino 
+
+#### DonkeyCar AI/ GPS ??? 
 
 ## Acknowledgments
 *Thank you to my teammates, Professor Jack Silberman, and our incredible TAs and tutor for an amazing Fall 2024 class!*
