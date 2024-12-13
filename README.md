@@ -87,8 +87,13 @@ Assembly without Lid
 | Rotator Gear | <img src="https://github.com/UCSD-ECEMAE-148/fall-2024-final-project-fall-2024-final-project-team-10/blob/main/images/Rotator%20Gear.png" width="300" height="300" /> | Sean
 | Rotator | <img src="https://github.com/UCSD-ECEMAE-148/fall-2024-final-project-fall-2024-final-project-team-10/blob/main/images/Rotator.png" width="300" height="300" /> | Chen-Min 
 | Sticker Gear | <img src="https://github.com/UCSD-ECEMAE-148/fall-2024-final-project-fall-2024-final-project-team-10/blob/main/images/Sticker%20Gear.png" width="300" height="300" /> | Sean
+| Electronic Mounting Plate | <img src="https://github.com/UCSD-ECEMAE-148/fall-2024-final-project-fall-2024-final-project-team-10/blob/main/images/Electronic%20Mounting%20Plate.png" width="300" height="300" /> | Chen-Min
 
 #### Open Source Parts
+
+| Part | CAD Model | Source |
+|------|--------|-----------|
+| Jetson Nano Case | <img src="https://github.com/UCSD-ECEMAE-148/fall-2024-final-project-fall-2024-final-project-team-10/blob/main/images/Jetson%20Nano%20Case.png" width="400" height="300" /> | [Thingiverse](https://www.thingiverse.com/thing:3518410) |
 
 ### Electronic Hardware
 Below is a circuit diagram of the electronic hardware setup for the car.
