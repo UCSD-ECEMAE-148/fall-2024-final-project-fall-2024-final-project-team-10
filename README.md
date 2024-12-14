@@ -55,7 +55,12 @@ Nice to have:
 - Car can communicate with an external device to show users which plates have been marked
 
 ### Goals We Met
-- 
+- We integrated OpenALPR, Automatic License Plate Recognition, with our OAK-D-Lite camera in order to recognize and read license plates shown to the camera
+- We designed a CAD model and 3-D printed a sticker dispensing machine, which utilizes a conveyor belt mechanism to cycle through stickers
+- By connecting an Arduino Nano to the Jetson Nano, we were able to power a servo directly from Python script in the Jetson
+  - The servo connects to gears in the sticker machine
+- We wrote a script to compare the read plates with a database of valid and non valid license plates, and mark the plate using the sticker machine if not valid
+  - Because of a 3-D print break, our final sticker machine did not extend far enough to the sticker target
 
 ### Demo
 [Demo 1](https://drive.google.com/file/d/1xZt-TrRy52wF89hov6-FDPGDqlJC-etA/view?usp=sharing)\
@@ -149,8 +154,7 @@ Below is a circuit diagram of the electronic hardware setup for the car.
 - [Reference](https://github.com/openalpr/openalpr)
 
 #### Arduino 
-
-#### DonkeyCar AI 
+- 
 
 ## Acknowledgments
 *Thank you to my teammates, Professor Jack Silberman, and our incredible TAs and tutor for an amazing Fall 2024 class!*
