@@ -154,7 +154,10 @@ Below is a circuit diagram of the electronic hardware setup for the car.
 - [Reference](https://github.com/openalpr/openalpr)
 
 #### Arduino 
-- 
+- While we originally planned to directly control an Adafruit PCA9685 servo driver with the Jetson, we faced issues in being unable to install the correct version of its libraries
+- Thus we decided to use an Arduino, which holds the code to power the servo of the sticker machine
+- By connecting the Arduino and the Jetson Nano through USB cable, the script running inside our Jetson can power the sticker machine when a non-valid plate is found
+
 
 ## Acknowledgments
 *Thank you to my teammates, Professor Jack Silberman, and our incredible TAs and tutor for an amazing Fall 2024 class!*
